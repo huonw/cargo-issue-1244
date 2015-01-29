@@ -1,0 +1,9 @@
+[package]
+
+name = "z"
+version = "0.0.1"
+authors = ["Huon Wilson <dbau.pp@gmail.com>"]
+
+
+[dependencies.x]
+path = "../x"
